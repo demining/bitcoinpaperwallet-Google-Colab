@@ -28,3 +28,10 @@ IzFlUJwd1uT6hiT9lMiZ5AwBYUH5wmNSat4dK6qfh+3hu65A3Ex0/EcOFOqRBPBH
 xA9RXpfGJvFOZ4yoUTa3+qWt6krQbQ==
 =28VT
 -----END PGP SIGNATURE-----
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
